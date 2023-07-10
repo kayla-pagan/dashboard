@@ -1,21 +1,14 @@
-# codd54885b23e4e0f88aaa893
+# Personal Dashboard
 
-Quick start:
+My dashboard is inspired by the Chrome Momentum dashboard! This is the first project 
+I have done where I used multiple APIs to complete different tasks. I implemented the 
+following APIs to this personal dashboard:
 
-```
-$ npm install
-$ npm start
-````
+-OpenWeatherMap to provide weather info for
+ any users current area
+-Coingecko Api to provide current market data on Bitcoin
+-Unsplash to generate a random image each time dashboard comes up on users screen
+-Lastly, Advice Slip to generate random advice on the click of a button
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Below is a screenshot of what this chrome extension looks like:
+<img width="961" alt="dashboard" src="https://github.com/kayla-pagan/dashboard/assets/114839282/ef359b53-b39c-452d-8171-9c8613351289">
